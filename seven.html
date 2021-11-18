@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body>
+        <!-- 
+            Identify and correct the errors in following segments of code:
+            if ( age >= 30 ); document.write (“Age greater than or equal to
+            30); else document.write(“Age is less than 30);
+         -->
+         <script type="text/javascript">
+             /**
+              * error:
+              * if (age >= 30); document.write("Age greater than or equal to 30");
+              * else document.write("Age is less than 30");
+              * 
+              * BUG: 
+              * - Syntax error due to unexpected semi-colon after the expression for the condition
+              * - age variable is not declared as well
+              * 
+              * correction:
+              * age = 20;
+              * if (age >= 30) console.log("Age greater than or equal to 30");
+              * else console.log("Age is less than 30");
+              * 
+              */
+         </script>
+    </body>
+</html>

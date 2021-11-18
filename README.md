@@ -7,3 +7,4 @@
 |  4.  | Write a piece of Javascript code to calculate the average of the all numbers from 0 to 100 inclusive (ie. 0, 1,2,…,100). The code should display the message: “The average is …” at the end of the calculation.            |  [View Code](./four.html)  |
 |  5.  | Display an alert box with the message: “This is an easy exam”.             |  [View Code](./five.html)  |
 |  6.  | Display a prompt box with the message: “Please enter your phone number”.                       |  [View Code](./six.html)  |
+|  7.  | Identify and correct the errors in following segments of code: if ( age >= 30 ); document.write (“Age greater than or equal to 30); else document.write(“Age is less than 30;                       |  [View Code](./seven.html)  |
