@@ -8,3 +8,4 @@
 |  5.  | Display an alert box with the message: “This is an easy exam”.             |  [View Code](./five.html)  |
 |  6.  | Display a prompt box with the message: “Please enter your phone number”.                       |  [View Code](./six.html)  |
 |  7.  | Identify and correct the errors in following segments of code: if ( age >= 30 ); document.write (“Age greater than or equal to 30); else document.write(“Age is less than 30;                       |  [View Code](./seven.html)  |
+|  8.  | Write a script that outputs HTML text that keeps displaying in the browser window the multiples of the integer 2, namely 2,4, 8, 16, 32, 64, 128, etc. Ensure that your loop terminates when the value 2048576 is printed.                       |  [View Code](./eight.html)  |
