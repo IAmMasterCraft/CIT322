@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body>
+        <!-- 
+            Write a piece of Javascript code to calculate 
+            the average of the all numbers from 0 to 100 inclusive 
+            (ie. 0, 1,2,…,100). The code should display the message: 
+            “The average is …” at the end of the calculation. (10 points).
+         -->
+        <script type="text/javascript">
+            var sum = 0;
+            var totalNumbers = 100;
+            for (let index = 0; index <= totalNumbers; index++) {
+                sum += index;
+            }
+            var average = sum / totalNumbers;
+            document.write("The average is " + average);
+        </script>
+    </body>
+</html>
